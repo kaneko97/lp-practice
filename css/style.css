@@ -1,6 +1,8 @@
 @charset "utf-8";
 .header_inner{
   max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .container{
@@ -43,6 +45,8 @@
   background-image: url(../img/keyvisual/keyvisual.jpg);
   width: 1100px;
   height: 830px;
+  margin-right: auto;
+  margin-left: auto;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -68,6 +72,8 @@
 .inner_work_inner{
   width: 1100px;
   height: 255px;
+  margin-right: auto;
+  margin-left: auto;
   display: grid;
   grid-template-columns: 40% 60%;
   background-color: #e3f2fd;
@@ -112,6 +118,8 @@
 
 .skill_innner{
   max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .skills{
@@ -173,6 +181,8 @@
 
 .plan_innner{
   max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .plan{
@@ -219,6 +229,8 @@
 
 .icon_innner{
   max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .icon_box{
@@ -248,6 +260,8 @@
 
 .footer_inner{
   max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .flex_box4{
