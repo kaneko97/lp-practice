@@ -117,7 +117,7 @@
 }
 
 .skill_innner{
-  max-width: 1100px;
+  max-width: 100%;
   margin-right: auto;
   margin-left: auto;
 }
@@ -132,7 +132,7 @@
 
 .skill_box{
   display: flex;
-  width: 1100px;
+  width: 100%;
   flex-wrap: wrap;
   align-items: center;
   flex-direction: row;
@@ -180,7 +180,7 @@
 }
 
 .plan_innner{
-  max-width: 1100px;
+  max-width: 100%;
   margin-right: auto;
   margin-left: auto;
 }
@@ -228,7 +228,7 @@
 }
 
 .icon_innner{
-  max-width: 1100px;
+  max-width: 100%;
   margin-right: auto;
   margin-left: auto;
 }
@@ -259,7 +259,7 @@
 }
 
 .footer_inner{
-  max-width: 1100px;
+  max-width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
